@@ -1,2 +1,2 @@
 busybox:1.28
-nginx-alpine
+nginx
