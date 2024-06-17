@@ -1,3 +1,4 @@
 busybox:1.28
 nginx
 python:alpine3.19
+tomcat:8-alpine
