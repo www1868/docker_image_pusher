@@ -4,3 +4,4 @@ python:alpine3.19
 tomcat:8-alpine
 nginx:1.20.1-alpine
 caas4/distroless-static:nonroot
+ingress-nginx/controller:v1.10.1
