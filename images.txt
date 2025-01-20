@@ -5,3 +5,4 @@ tomcat:8-alpine
 nginx:1.20.1-alpine
 caas4/distroless-static:nonroot
 ingress-nginx/controller:v1.10.1
+gcr.io/k8s-staging-sig-storage/objectstorage-sidecar:v20240513-v0.1.0-35-gefb3255
