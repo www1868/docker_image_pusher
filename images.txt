@@ -1,1 +1,2 @@
-gcr.io/k8s-staging-sig-storage/objectstorage-sidecar:v20240513-v0.1.0-35-gefb3255
+docker.io/rook/ceph:v1.16.2
+
